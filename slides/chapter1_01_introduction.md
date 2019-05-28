@@ -2,7 +2,7 @@
 type: slides
 ---
 
-# Introduction to Generalized Additive Models
+# Introduction A modelos generalizados
 
 Noam Ross 
 Senior Research Scientist, EcoHealth Alliance
